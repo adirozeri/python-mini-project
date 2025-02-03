@@ -1,0 +1,10 @@
+matplotlib==3.10.0
+numpy==2.2.2
+pandas==2.2.3
+python_dateutil==2.9.0.post0
+python_dateutil==2.8.2
+Requests==2.32.3
+seaborn==0.13.2
+squarify==0.4.4
+streamlit==1.41.1
+streamlit_authenticator==0.2.2
