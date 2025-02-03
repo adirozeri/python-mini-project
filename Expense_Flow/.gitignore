@@ -1,26 +1,27 @@
-# Ignore Python bytecode files
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 
-# Ignore virtual environment directories
 venv/
 *.env
 .env/
 
-# Ignore IDE/editor directories and files
 .vscode/
 .idea/
 
-# Ignore system files (macOS, Windows)
 .DS_Store
 Thumbs.db
 
-# Ignore log files
 *.log
-
-# Add these lines to your .gitignore
+*.csv
 *.db
 logs/
 logs/homebudget.log
+badbiztypes/
+bk_db/
+csvs/
+missing/
+new_csv/
+old/
+processed_csv/
